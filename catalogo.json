@@ -38,10 +38,8 @@
       "quality": "1080p",
       "language": "LATINO",
       "rating": "6.9",
-      "featured": false,
-      "genres": [
-        ""
-      ],
+      "featured": true,
+      "genres": [],
       "poster": "https://image.tmdb.org/t/p/w500/6485g21CJuFmekWchDFf3EtVU82.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
       "synopsis": "La elegante corredora Cruz Ramirez ayudará al veterano campeón Rayo McQueen a regresar a la pista enfrentando a una nueva generación de corredores de alta tecnología. Pronto, Rayo McQueen demostrará que sigue siendo el mejor del mundo.",
@@ -52,7 +50,8 @@
           "format": "MP4",
           "url": "#"
         }
-      ]
+      ],
+      "seasons": []
     }
   ]
 }
