@@ -5,6 +5,32 @@
   },
   "items": [
     {
+      "id": "tmdb_1084244",
+      "type": "movie",
+      "title": "Toy Story 5",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "8.3",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "synopsis": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://vimeos.net/embed-q0siugndjwh2.html"
+        }
+      ],
+      "seasons": []
+    },
+    {
       "id": "tmdb_615457",
       "type": "movie",
       "title": "Nadie",
@@ -163,6 +189,32 @@
   ],
   "movies": [
     {
+      "id": "tmdb_1084244",
+      "type": "movie",
+      "title": "Toy Story 5",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "8.3",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "synopsis": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://vimeos.net/embed-q0siugndjwh2.html"
+        }
+      ],
+      "seasons": []
+    },
+    {
       "id": "tmdb_615457",
       "type": "movie",
       "title": "Nadie",
@@ -320,6 +372,32 @@
     }
   ],
   "peliculas": [
+    {
+      "id": "tmdb_1084244",
+      "type": "movie",
+      "title": "Toy Story 5",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "8.3",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "synopsis": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://vimeos.net/embed-q0siugndjwh2.html"
+        }
+      ],
+      "seasons": []
+    },
     {
       "id": "tmdb_615457",
       "type": "movie",
