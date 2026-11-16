@@ -3,7 +3,88 @@
     "site_name": "GATO<b>PLAY</b>",
     "accent_color": "#00A8E1"
   },
-  "items": [],
-  "movies": [],
-  "peliculas": []
+  "items": [
+    {
+      "id": "tmdb_1283515",
+      "type": "movie",
+      "title": "Verity: La sombra de un engaño",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.0",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "synopsis": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansión de los Crawford, Ashleigh descubre poco a poco que las cosas no son exactamente lo que parecen.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/RLG0Mg6vdzCdyrw/Verity.La_sombra.de.un.engano.2026.1080p-Dual-Lat.mkv.mp4"
+        }
+      ],
+      "seasons": []
+    }
+  ],
+  "movies": [
+    {
+      "id": "tmdb_1283515",
+      "type": "movie",
+      "title": "Verity: La sombra de un engaño",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.0",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "synopsis": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansión de los Crawford, Ashleigh descubre poco a poco que las cosas no son exactamente lo que parecen.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/RLG0Mg6vdzCdyrw/Verity.La_sombra.de.un.engano.2026.1080p-Dual-Lat.mkv.mp4"
+        }
+      ],
+      "seasons": []
+    }
+  ],
+  "peliculas": [
+    {
+      "id": "tmdb_1283515",
+      "type": "movie",
+      "title": "Verity: La sombra de un engaño",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.0",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "synopsis": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansión de los Crawford, Ashleigh descubre poco a poco que las cosas no son exactamente lo que parecen.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/RLG0Mg6vdzCdyrw/Verity.La_sombra.de.un.engano.2026.1080p-Dual-Lat.mkv.mp4"
+        }
+      ],
+      "seasons": []
+    }
+  ]
 }
