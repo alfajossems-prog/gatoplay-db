@@ -57,32 +57,6 @@
       "seasons": []
     },
     {
-      "id": "tmdb_72105",
-      "type": "movie",
-      "title": "Ted",
-      "year": "2012",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "6.5",
-      "featured": true,
-      "genres": [
-        "Estreno",
-        "Destacado"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/rpadMMk5g2ivupPqtTQMnHIxJK0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg",
-      "synopsis": "Cuando John Bennett (Mark Wahlberg) era pequeño, deseaba que su osito de peluche Ted fuera un oso de verdad y, por desgracia, su sueño se hizo realidad. Más de veinte años después, Ted sigue con John y saca de quicio a su novia Lori, que empieza a perder la paciencia. Para colmo, a John no parece preocuparle su futuro profesional y se pasa la vida fumando porros con Ted. A pesar de ello, John intenta alcanzar la madurez, pero parece que para conseguirlo le resulta indispensable la ayuda de Ted.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://streamtape.com/e/Jv04pDrQ36CjKQe/lv_0_20261015194819.mp4"
-        }
-      ],
-      "seasons": []
-    },
-    {
       "id": "tmdb_1283515",
       "type": "movie",
       "title": "Verity: La sombra de un engaño",
@@ -163,32 +137,6 @@
       "seasons": []
     },
     {
-      "id": "tmdb_72105",
-      "type": "movie",
-      "title": "Ted",
-      "year": "2012",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "6.5",
-      "featured": true,
-      "genres": [
-        "Estreno",
-        "Destacado"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/rpadMMk5g2ivupPqtTQMnHIxJK0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg",
-      "synopsis": "Cuando John Bennett (Mark Wahlberg) era pequeño, deseaba que su osito de peluche Ted fuera un oso de verdad y, por desgracia, su sueño se hizo realidad. Más de veinte años después, Ted sigue con John y saca de quicio a su novia Lori, que empieza a perder la paciencia. Para colmo, a John no parece preocuparle su futuro profesional y se pasa la vida fumando porros con Ted. A pesar de ello, John intenta alcanzar la madurez, pero parece que para conseguirlo le resulta indispensable la ayuda de Ted.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://streamtape.com/e/Jv04pDrQ36CjKQe/lv_0_20261015194819.mp4"
-        }
-      ],
-      "seasons": []
-    },
-    {
       "id": "tmdb_1283515",
       "type": "movie",
       "title": "Verity: La sombra de un engaño",
@@ -264,32 +212,6 @@
           "quality": "1080p",
           "format": "MP4",
           "url": "https://vimeos.net/embed-q0siugndjwh2.html"
-        }
-      ],
-      "seasons": []
-    },
-    {
-      "id": "tmdb_72105",
-      "type": "movie",
-      "title": "Ted",
-      "year": "2012",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "6.5",
-      "featured": true,
-      "genres": [
-        "Estreno",
-        "Destacado"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/rpadMMk5g2ivupPqtTQMnHIxJK0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg",
-      "synopsis": "Cuando John Bennett (Mark Wahlberg) era pequeño, deseaba que su osito de peluche Ted fuera un oso de verdad y, por desgracia, su sueño se hizo realidad. Más de veinte años después, Ted sigue con John y saca de quicio a su novia Lori, que empieza a perder la paciencia. Para colmo, a John no parece preocuparle su futuro profesional y se pasa la vida fumando porros con Ted. A pesar de ello, John intenta alcanzar la madurez, pero parece que para conseguirlo le resulta indispensable la ayuda de Ted.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://streamtape.com/e/Jv04pDrQ36CjKQe/lv_0_20261015194819.mp4"
         }
       ],
       "seasons": []
