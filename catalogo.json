@@ -5,6 +5,32 @@
   },
   "items": [
     {
+      "id": "tmdb_1315772",
+      "type": "movie",
+      "title": "Minions & Monstruos",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.5",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uNtBRRLNsCiCcqccv3CMWPx5Xz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "synopsis": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/VOOjZrrda3iK612/azlpa-c19d017b28751f26214ceeb6b4f7ad5463e8d50c.mp4"
+        }
+      ],
+      "seasons": []
+    },
+    {
       "id": "tmdb_1241982",
       "type": "movie",
       "title": "Moana 2",
@@ -85,6 +111,32 @@
   ],
   "movies": [
     {
+      "id": "tmdb_1315772",
+      "type": "movie",
+      "title": "Minions & Monstruos",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.5",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uNtBRRLNsCiCcqccv3CMWPx5Xz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "synopsis": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/VOOjZrrda3iK612/azlpa-c19d017b28751f26214ceeb6b4f7ad5463e8d50c.mp4"
+        }
+      ],
+      "seasons": []
+    },
+    {
       "id": "tmdb_1241982",
       "type": "movie",
       "title": "Moana 2",
@@ -164,6 +216,32 @@
     }
   ],
   "peliculas": [
+    {
+      "id": "tmdb_1315772",
+      "type": "movie",
+      "title": "Minions & Monstruos",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.5",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uNtBRRLNsCiCcqccv3CMWPx5Xz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "synopsis": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/VOOjZrrda3iK612/azlpa-c19d017b28751f26214ceeb6b4f7ad5463e8d50c.mp4"
+        }
+      ],
+      "seasons": []
+    },
     {
       "id": "tmdb_1241982",
       "type": "movie",
