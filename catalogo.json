@@ -7,6 +7,43 @@
   },
   "items": [
     {
+      "id": "tmdb_1396",
+      "type": "series",
+      "title": "Breaking Bad",
+      "year": "2008",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "9.0",
+      "featured": false,
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "synopsis": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Episodio 1",
+              "duration": "45 min",
+              "servers": [
+                {
+                  "name": "Streamtape",
+                  "quality": "1080p",
+                  "format": "MP4",
+                  "url": "https://streamtape.com/v/88qPzdg8BzCog0Z/eJwzNLY00zUEwtTi-JzEEt200pyc-IwU3WIzAGIBCBY.m4v.mp4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "tmdb_1283515",
       "type": "movie",
       "title": "Verity: La sombra de un engaño",
