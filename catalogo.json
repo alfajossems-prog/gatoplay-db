@@ -7,32 +7,6 @@
   },
   "items": [
     {
-      "id": "tmdb_615457",
-      "type": "movie",
-      "title": "Nadie",
-      "year": "2021",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "7.8",
-      "featured": true,
-      "genres": [
-        "Estreno",
-        "Destacado"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
-      "synopsis": "La tranquila vida de Hutch Mansell, un padre de familia, se ve interrumpido cuando dos ladrones irrumpen su casa durante la noche. Impulsado por su furia latente, toma un camino brutal qué desvelará oscuros secretos que luchó por dejar atrás.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "#"
-        }
-      ],
-      "seasons": []
-    },
-    {
       "id": "tmdb_912649",
       "type": "movie",
       "title": "Venom: El último baile",
