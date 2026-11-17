@@ -7,6 +7,32 @@
   },
   "items": [
     {
+      "id": "tmdb_533535",
+      "type": "movie",
+      "title": "Deadpool & Wolverine",
+      "year": "2024",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.6",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Ciencia Ficción"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6aY3OzCIdxoBMYdiH5s17rWFFFA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+      "synopsis": "Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "#"
+        }
+      ]
+    },
+    {
       "id": "tmdb_1283515",
       "type": "movie",
       "title": "Verity: La sombra de un engaño",
