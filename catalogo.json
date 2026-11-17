@@ -38,6 +38,19 @@
                   "url": "https://streamtape.com/v/88qPzdg8BzCog0Z/eJwzNLY00zUEwtTi-JzEEt200pyc-IwU3WIzAGIBCBY.m4v.mp4"
                 }
               ]
+            },
+            {
+              "episode_number": 2,
+              "title": "Episodio 2",
+              "duration": "45 min",
+              "servers": [
+                {
+                  "name": "Streamtape",
+                  "quality": "1080p",
+                  "format": "MP4",
+                  "url": "https://streamtape.com/e/m6Yv14kQZQtbrD1/eJwzNLY00zXUNdJNLY7PSSzRTSvNyYnPSNEtNgMAYhQIFw.m4v.mp4"
+                }
+              ]
             }
           ]
         }
