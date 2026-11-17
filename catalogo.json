@@ -7,6 +7,44 @@
   },
   "items": [
     {
+      "id": "tmdb_1081003",
+      "type": "movie",
+      "title": "Supergirl",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "6.6",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia Ficción"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+      "synopsis": "Mientras celebra su cumpleaños número 21, Kara Zor-El viaja por la galaxia con su perro Krypto, durante el cual conoce a la joven Ruthye Marye Knoll y emprende una \"búsqueda asesina de venganza\".",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://www.themoviedb.org/settings/api/regenerate_confirm"
+        },
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://www.google.com/imgres?imgurl=https://i.pinimg.com/474x/c4/bd/ff/c4bdffe43a33782721be309b4b532c86.jpg&tbnid=gXd4tfsNE-4QIM&vet=1&imgrefurl=https://es.pinterest.com/ideas/verde-olivo-habitacion/914753266905/&docid=HV7_Heof4Lvp5M&w=474&h=322&source=sh/x/im/m1/2&kgs=4fc366e3a9e91770&shem=epsd1,nisbtsa2,nisbtsal,rimspwouoe&utm_source=epsd1,nisbtsa2,nisbtsal,rimspwouoe,sh/x/im/m1/2"
+        },
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/02qbKb70PwIe7r/Supergirl_%282026%29.mp4"
+        }
+      ]
+    },
+    {
       "id": "tmdb_1396",
       "type": "series",
       "title": "Breaking Bad",
