@@ -57,32 +57,6 @@
       "seasons": []
     },
     {
-      "id": "tmdb_912649",
-      "type": "movie",
-      "title": "Venom: El último baile",
-      "year": "2024",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "6.7",
-      "featured": true,
-      "genres": [
-        "Estreno",
-        "Destacado"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/toZiAd0n0NKhiuHTiGk7kBMmhtG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
-      "synopsis": "Eddie y Venom están huyendo. Perseguidos por sus dos mundos, el dúo se ve obligado a tomar una decisión devastadora que bajará el telón en un último baile entre Venom y Eddie.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://playmogo.com/e/t7bj90rdkbg9"
-        }
-      ],
-      "seasons": []
-    },
-    {
       "id": "tmdb_260514",
       "type": "movie",
       "title": "Cars 3",
@@ -215,32 +189,6 @@
       "seasons": []
     },
     {
-      "id": "tmdb_912649",
-      "type": "movie",
-      "title": "Venom: El último baile",
-      "year": "2024",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "6.7",
-      "featured": true,
-      "genres": [
-        "Estreno",
-        "Destacado"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/toZiAd0n0NKhiuHTiGk7kBMmhtG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
-      "synopsis": "Eddie y Venom están huyendo. Perseguidos por sus dos mundos, el dúo se ve obligado a tomar una decisión devastadora que bajará el telón en un último baile entre Venom y Eddie.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://playmogo.com/e/t7bj90rdkbg9"
-        }
-      ],
-      "seasons": []
-    },
-    {
       "id": "tmdb_260514",
       "type": "movie",
       "title": "Cars 3",
@@ -368,32 +316,6 @@
           "quality": "1080p",
           "format": "MP4",
           "url": "https://vimeos.net/embed-q0siugndjwh2.html"
-        }
-      ],
-      "seasons": []
-    },
-    {
-      "id": "tmdb_912649",
-      "type": "movie",
-      "title": "Venom: El último baile",
-      "year": "2024",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "6.7",
-      "featured": true,
-      "genres": [
-        "Estreno",
-        "Destacado"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/toZiAd0n0NKhiuHTiGk7kBMmhtG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
-      "synopsis": "Eddie y Venom están huyendo. Perseguidos por sus dos mundos, el dúo se ve obligado a tomar una decisión devastadora que bajará el telón en un último baile entre Venom y Eddie.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://playmogo.com/e/t7bj90rdkbg9"
         }
       ],
       "seasons": []
