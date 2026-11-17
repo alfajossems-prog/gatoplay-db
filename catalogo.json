@@ -161,31 +161,6 @@
         }
       ],
       "seasons": []
-    },
-    {
-      "id": "tmdb_2048",
-      "type": "movie",
-      "title": "Yo, Robot",
-      "year": "2004",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "7.0",
-      "featured": true,
-      "genres": [
-        "Estreno",
-        "Destacado"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/dV5K0s9stnKIoxERAONegjRHTKz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
-      "synopsis": "Chicago, año 2035. Vivimos en completa armonía con robots inteligentes. Cocinan para nosotros, conducen nuestros aviones, cuidan de nuestros hijos y confiamos plenamente en ellos debido a que se rigen por las Tres Leyes de la Robótica que nos protegen de cualquier daño. Inesperadamente un robot se ve implicado en el crimen de un brillante científico y el detective Del Spooner queda a cargo de la investigación.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "#"
-        }
-      ]
     }
   ]
 }
