@@ -5,6 +5,32 @@
   },
   "items": [
     {
+      "id": "tmdb_1241982",
+      "type": "movie",
+      "title": "Moana 2",
+      "year": "2024",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.0",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mLAGAFUrRw9pphjnbnhtG1hASSN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+      "synopsis": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/8wDYx7a7leUopJ0/Moana_2.mp4"
+        }
+      ],
+      "seasons": []
+    },
+    {
       "id": "tmdb_1084244",
       "type": "movie",
       "title": "Toy Story 5",
@@ -189,6 +215,32 @@
   ],
   "movies": [
     {
+      "id": "tmdb_1241982",
+      "type": "movie",
+      "title": "Moana 2",
+      "year": "2024",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.0",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mLAGAFUrRw9pphjnbnhtG1hASSN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+      "synopsis": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/8wDYx7a7leUopJ0/Moana_2.mp4"
+        }
+      ],
+      "seasons": []
+    },
+    {
       "id": "tmdb_1084244",
       "type": "movie",
       "title": "Toy Story 5",
@@ -372,6 +424,32 @@
     }
   ],
   "peliculas": [
+    {
+      "id": "tmdb_1241982",
+      "type": "movie",
+      "title": "Moana 2",
+      "year": "2024",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.0",
+      "featured": true,
+      "genres": [
+        "Estreno",
+        "Destacado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mLAGAFUrRw9pphjnbnhtG1hASSN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+      "synopsis": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/8wDYx7a7leUopJ0/Moana_2.mp4"
+        }
+      ],
+      "seasons": []
+    },
     {
       "id": "tmdb_1084244",
       "type": "movie",
