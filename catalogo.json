@@ -26,7 +26,13 @@
       "synopsis": "La elegante corredora Cruz Ramirez ayudará al veterano campeón Rayo McQueen a regresar a la pista enfrentando a una nueva generación de corredores de alta tecnología. Pronto, Rayo McQueen demostrará que sigue siendo el mejor del mundo.",
       "servers": [
         {
-          "name": "Filemoon",
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/02qbKb70PwIe7r/Supergirl_%282026%29.mp4"
+        },
+        {
+          "name": "Filemon",
           "quality": "1080p",
           "format": "MP4",
           "url": "https://bysesukior.com/e/dzgl22y0v7ey/cars-3-2017"
