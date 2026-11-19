@@ -7,6 +7,30 @@
   },
   "items": [
     {
+      "id": "tmdb_1400837",
+      "type": "movie",
+      "title": "Madre siniestra",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "6.4",
+      "featured": false,
+      "genres": [
+        "Terror"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vnQtwToGRWTuHdLltq3hNdbXkii.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama “Otra Mamá”, se vuelve cada vez más amenazante para ella y su familia.",
+      "servers": [
+        {
+          "name": "Doodstream",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://transfer.it/t/8SgpHKxQhLRA"
+        }
+      ]
+    },
+    {
       "id": "tmdb_260514",
       "type": "movie",
       "title": "Cars 3",
