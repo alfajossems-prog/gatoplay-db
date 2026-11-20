@@ -187,6 +187,7 @@
       ],
       "poster": "https://image.tmdb.org/t/p/w500/uNtBRRLNsCiCcqccv3CMWPx5Xz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962534248",
       "synopsis": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
       "servers": [
         {
@@ -195,8 +196,7 @@
           "format": "MP4",
           "url": "https://streamtape.com/e/VOOjZrrda3iK612/azlpa-c19d017b28751f26214ceeb6b4f7ad5463e8d50c.mp4"
         }
-      ],
-      "seasons": []
+      ]
     },
     {
       "id": "tmdb_1241982",
