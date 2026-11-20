@@ -7,37 +7,6 @@
   },
   "items": [
     {
-      "id": "tmdb_1400837",
-      "type": "movie",
-      "title": "Madre siniestra",
-      "year": "2026",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "6.4",
-      "featured": false,
-      "genres": [
-        "Terror"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/vnQtwToGRWTuHdLltq3hNdbXkii.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1961446882",
-      "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama “Otra Mamá”, se vuelve cada vez más amenazante para ella y su familia.",
-      "servers": [
-        {
-          "name": "Doodstream",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://streamtape.com/v/RkA0xJ8b1wsjwe/azlpa-f4f16b2dc50878f1bc1691a5d41f2214979e9644.mkv.mp4"
-        },
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://playmogo.com/e/c70ag24qj7d8"
-        }
-      ]
-    },
-    {
       "id": "tmdb_260514",
       "type": "movie",
       "title": "Cars 3",
