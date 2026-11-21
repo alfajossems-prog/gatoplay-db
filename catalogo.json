@@ -133,6 +133,7 @@
       ],
       "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "subtitle": "",
       "synopsis": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina.",
       "seasons": [
         {
@@ -149,7 +150,8 @@
                   "format": "MP4",
                   "url": "https://streamtape.com/v/88qPzdg8BzCog0Z/eJwzNLY00zUEwtTi-JzEEt200pyc-IwU3WIzAGIBCBY.m4v.mp4"
                 }
-              ]
+              ],
+              "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1952898719"
             },
             {
               "episode_number": 2,
@@ -162,7 +164,8 @@
                   "format": "MP4",
                   "url": "https://streamtape.com/e/m6Yv14kQZQtbrD1/eJwzNLY00zXUNdJNLY7PSSzRTSvNyYnPSNEtNgMAYhQIFw.m4v.mp4"
                 }
-              ]
+              ],
+              "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1952898720"
             }
           ]
         }
