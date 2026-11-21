@@ -143,6 +143,7 @@
               "episode_number": 1,
               "title": "Episodio 1",
               "duration": "45 min",
+              "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1952898719",
               "servers": [
                 {
                   "name": "Streamtape",
@@ -150,8 +151,7 @@
                   "format": "MP4",
                   "url": "https://streamtape.com/v/88qPzdg8BzCog0Z/eJwzNLY00zUEwtTi-JzEEt200pyc-IwU3WIzAGIBCBY.m4v.mp4"
                 }
-              ],
-              "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1952898719"
+              ]
             },
             {
               "episode_number": 2,
