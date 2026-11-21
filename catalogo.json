@@ -7,6 +7,45 @@
   },
   "items": [
     {
+      "id": "tmdb_1396",
+      "type": "series",
+      "title": "Breaking Bad",
+      "year": "2008",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "9.0",
+      "featured": false,
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1953514853",
+      "synopsis": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina.",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Episodio 1",
+              "duration": "45 min",
+              "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1952898719",
+              "servers": [
+                {
+                  "name": "Streamtape",
+                  "quality": "1080p",
+                  "format": "MP4",
+                  "url": "https://streamtape.com/e/88qPzdg8BzCog0Z/Breaking_Bad_1T_1x1.mp4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "tmdb_2048",
       "type": "movie",
       "title": "Yo, Robot",
