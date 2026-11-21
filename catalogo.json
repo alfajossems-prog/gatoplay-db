@@ -183,6 +183,7 @@
       ],
       "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962709931",
       "synopsis": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansión de los Crawford, Ashleigh descubre poco a poco que las cosas no son exactamente lo que parecen.",
       "servers": [
         {
@@ -191,8 +192,7 @@
           "format": "MP4",
           "url": "https://streamtape.com/v/RLG0Mg6vdzCdyrw/Verity.La_sombra.de.un.engano.2026.1080p-Dual-Lat.mkv.mp4"
         }
-      ],
-      "seasons": []
+      ]
     },
     {
       "id": "tmdb_1315772",
