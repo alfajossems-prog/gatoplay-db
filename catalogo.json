@@ -7,6 +7,33 @@
   },
   "items": [
     {
+      "id": "tmdb_9615",
+      "type": "movie",
+      "title": "Rápido y furioso: Reto Tokio",
+      "year": "2006",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "6.6",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspenso"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hkHDmkL5abn3P005v6xfEG3ZyYT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dMARcKLrv0T7kVJ4iQR3vqTTdtT.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1951607160",
+      "synopsis": "Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan con encarcelarle, le mandan fuera del país a pasar una temporada con su tío, un militar destinado en Japón, que vive en un diminuto piso en un barrio barato de Tokio. En el país donde nacieron la mayoría de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el último reto automovilístico que desafía la gravedad, las carreras de «drift» (arrastre), una peligrosa mezcla de velocidad en pistas con curvas muy cerradas y en zigzag.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://voe.sx/e/nchrepqvekdj"
+        }
+      ]
+    },
+    {
       "id": "tmdb_299534",
       "type": "movie",
       "title": "Avengers: Endgame Encore",
