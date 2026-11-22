@@ -7,6 +7,33 @@
   },
   "items": [
     {
+      "id": "tmdb_969681",
+      "type": "movie",
+      "title": "Spider-Man: Un nuevo día",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "8.5",
+      "featured": false,
+      "genres": [
+        "Ciencia Ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962511871",
+      "synopsis": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/xrBKARYW29tkp6Q/eJwzMjCx0DUAwtTi-JzEEt200pyc-IwU3WIzAGFeCA8.mp4"
+        }
+      ]
+    },
+    {
       "id": "tmdb_1396",
       "type": "series",
       "title": "Breaking Bad",
