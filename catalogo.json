@@ -164,10 +164,16 @@
       "synopsis": "Bela, una niña de ocho años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama «otra mamá», se vuelve cada vez más amenazante para ella y su familia.",
       "servers": [
         {
-          "name": "Streamtape",
+          "name": "voe",
           "quality": "1080p",
           "format": "MP4",
           "url": "https://voe.sx/e/63amkmrccvpn"
+        },
+        {
+          "name": "mixdrop",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://mixdrop.top/e/dkk0ezm3f1w40z"
         }
       ]
     },
