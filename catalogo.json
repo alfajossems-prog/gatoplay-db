@@ -7,45 +7,6 @@
   },
   "items": [
     {
-      "id": "tmdb_299534",
-      "type": "movie",
-      "title": "Avengers: Endgame Encore",
-      "year": "2019",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "8.2",
-      "featured": false,
-      "genres": [
-        "Aventura",
-        "Ciencia Ficción",
-        "Acción"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/ycvuLbEuMG88UPuwuAYJWY0ZI8v.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1961442356",
-      "synopsis": "Después de los devastadores eventos de los Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://voe.sx/e/uos4swaixiri"
-        },
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://streamtape.com/e/dP1PP9XqY8ikx0A"
-        },
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://mxdrop.sx/e/dkk0kvz1cl0og7"
-        }
-      ]
-    },
-    {
       "id": "tmdb_969681",
       "type": "movie",
       "title": "Spider-Man: Un nuevo día",
