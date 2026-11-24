@@ -7,6 +7,33 @@
   },
   "items": [
     {
+      "id": "tmdb_1368337",
+      "type": "movie",
+      "title": "La Odisea",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "8.0",
+      "featured": false,
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sRxbUe5FB25Gde0e2FnwwSckpXb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962732362",
+      "synopsis": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/1pXxZzXRe1ty7Z"
+        }
+      ]
+    },
+    {
       "id": "tmdb_299534",
       "type": "movie",
       "title": "Avengers: Endgame Encore",
