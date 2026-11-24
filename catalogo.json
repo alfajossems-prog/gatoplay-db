@@ -7,6 +7,32 @@
   },
   "items": [
     {
+      "id": "tmdb_1263337",
+      "type": "movie",
+      "title": "El corazón de la bestia",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.9",
+      "featured": false,
+      "genres": [
+        "Aventura",
+        "Suspenso"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kVDHPDggier9ciMc8Xglinq1jWv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962729618",
+      "synopsis": "Tras un terrible accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por la supervivencia contra los elementos.",
+      "servers": [
+        {
+          "name": "VOE",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://voe.sx/e/bkq27p024stq"
+        }
+      ]
+    },
+    {
       "id": "tmdb_1368337",
       "type": "movie",
       "title": "La Odisea",
