@@ -7,6 +7,35 @@
   },
   "items": [
     {
+      "id": "tmdb_502356",
+      "type": "movie",
+      "title": "Super Mario Bros. La película",
+      "year": "2023",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.6",
+      "featured": false,
+      "genres": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1958075020",
+      "synopsis": "Mientras trabaja bajo tierra para arreglar una tubería de agua, los plomeros de Brooklyn Mario y su hermano Luigi son transportados por una misteriosa tubería y llegan a un nuevo mundo mágico.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://pixeldrain.com/u/PbLpPmJ3"
+        }
+      ]
+    },
+    {
       "id": "tmdb_1263337",
       "type": "movie",
       "title": "El corazón de la bestia",
