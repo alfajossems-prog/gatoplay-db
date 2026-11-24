@@ -26,6 +26,18 @@
       "synopsis": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
       "servers": [
         {
+          "name": "VOE",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://voe.sx/e/cibegxefogtf"
+        },
+        {
+          "name": "Mixdrop",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://mxdrop.sx/e/vkkemz8dc161o6"
+        },
+        {
           "name": "Streamtape",
           "quality": "1080p",
           "format": "MP4",
