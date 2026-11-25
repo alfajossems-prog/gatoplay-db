@@ -7,6 +7,33 @@
   },
   "items": [
     {
+      "id": "tmdb_1375646",
+      "type": "movie",
+      "title": "Zona cero",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "8.2",
+      "featured": false,
+      "genres": [
+        "Terror",
+        "Acción",
+        "Ciencia Ficción"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/slNIQVItvsy5CzW4SqSDQCuybag.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962524049",
+      "synopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
+      "servers": [
+        {
+          "name": "VOE",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://voe.sx/e/adl5u9sjim8u"
+        }
+      ]
+    },
+    {
       "id": "tmdb_1204680",
       "type": "movie",
       "title": "Coyote vs. Acme",
