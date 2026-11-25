@@ -7,6 +7,42 @@
   },
   "items": [
     {
+      "id": "tmdb_1380417",
+      "type": "movie",
+      "title": "A cualquier precio",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "6.8",
+      "featured": false,
+      "genres": [
+        "Suspenso",
+        "Historia",
+        "Crimen"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cXkTZ1Lr24ur2KGpzLUQCKZb1kF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962703699",
+      "synopsis": "Una tensa sociedad entre un endurecido sicario de la mafia y un joven agente negro del FBI se ve forzada a una difícil alianza para rastrear a los responsables del asesinato de varios líderes de los derechos civiles; en el proceso, descubrirán una conspiración que pondrá a prueba los límites de la justicia, la lealtad y la supervivencia.",
+      "servers": [
+        {
+          "name": "Pixeldrain",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://pixeldrain.com/u/UsyUgc4J"
+        },
+        {
+          "name": "Mixdrop",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://mxdrop.sx/e/7kk8j0k8tkr16z"
+        }
+      ],
+      "createdBy": "GatoPlay",
+      "updatedAt": "2026-11-25T21:57:54.388Z",
+      "updatedBy": "GatoPlay"
+    },
+    {
       "id": "tmdb_1375646",
       "type": "movie",
       "title": "Zona cero",
