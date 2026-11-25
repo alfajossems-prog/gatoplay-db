@@ -7,6 +7,40 @@
   },
   "items": [
     {
+      "id": "tmdb_1204680",
+      "type": "movie",
+      "title": "Coyote vs. Acme",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "8.2",
+      "featured": false,
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia",
+        "Animación"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962588538",
+      "synopsis": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+      "servers": [
+        {
+          "name": "Mixdrop",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://mxdrop.sx/e/xwwrz96ehx8p4o"
+        },
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/g2YoyQMYmVtqqPY"
+        }
+      ]
+    },
+    {
       "id": "tmdb_1423191",
       "type": "movie",
       "title": "Resident Evil: Noche cero",
