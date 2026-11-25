@@ -7,33 +7,6 @@
   },
   "items": [
     {
-      "id": "tmdb_497698",
-      "type": "movie",
-      "title": "Black Widow",
-      "year": "2021",
-      "quality": "1080p",
-      "language": "LATINO",
-      "rating": "7.1",
-      "featured": false,
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia Ficción"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/rjnciyF6Rj2fwZ7mtrj88RB0z8u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
-      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1957303192",
-      "synopsis": "Natasha Romanoff, también conocida como Black Widow, se enfrenta a lo más oscuro de sus cuentas pendientes cuando surge una peligrosa conspiración que tiene lazos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para derribarla, debe lidiar con su historia como espía y con las relaciones rotas que dejó a su paso mucho antes de convertirse en parte de los Vengadores.",
-      "servers": [
-        {
-          "name": "Streamtape",
-          "quality": "1080p",
-          "format": "MP4",
-          "url": "https://pixeldrain.com/u/FNKyPSRD"
-        }
-      ]
-    },
-    {
       "id": "tmdb_1375646",
       "type": "movie",
       "title": "Zona cero",
