@@ -7,6 +7,36 @@
   },
   "items": [
     {
+      "id": "tmdb_1131943",
+      "type": "movie",
+      "title": "Madden",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "6.5",
+      "featured": false,
+      "genres": [
+        "Drama",
+        "Historia",
+        "Comedia"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1962753891",
+      "synopsis": "Inspirada en la vida del aclamado ícono, Madden presenta la trayectoria de John Madden, de ganar el Super Bowl con Al Davis y los Raiders a ser una voz reconocida en el fútbol americano y crear el videojuego Madden NFL. Celebra a una mente brillante, cuyo espíritu y personalidad únicos, junto con el ímpetu de su esposa y su contagioso amor por la gente, trascendieron el mundo del deporte.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://pixeldrain.com/u/A3ZwdeN6"
+        }
+      ],
+      "createdBy": "GatoPlay",
+      "updatedAt": "2026-11-26T21:26:39.997Z",
+      "updatedBy": "GatoPlay"
+    },
+    {
       "id": "tmdb_1291595",
       "type": "movie",
       "title": "La noche del demonio: Están entre nosotros",
