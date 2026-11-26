@@ -7,6 +7,37 @@
   },
   "items": [
     {
+      "id": "tmdb_9928",
+      "type": "movie",
+      "title": "Robots",
+      "year": "2005",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "6.5",
+      "featured": false,
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Ciencia Ficción"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/e5GTdGwZAvaPgO8kOEsGltzgIUX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8p4gCdDT55PMY3UMDvo6ybzMrai.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/170452",
+      "synopsis": "Rodney Hojalata es un joven y genial inventor que sueña con hacer del mundo un lugar mejor. Cappy es una atractiva ejecutiva robot de la que Rodney se queda prendado al instante. Ratchet es el tirano corporativo; y luego está el Gran Soldador, un magistral inventor que ha perdido el norte … hasta que tropieza con el irreprimible soñador de Rodney. Además está un grupo de robots inadaptados conocidos como los Oxidados liderados por Manivela.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://bysezejataos.com/e/2112x31q6hyu"
+        }
+      ],
+      "createdBy": "GatoPlay",
+      "updatedAt": "2026-11-26T04:10:05.285Z",
+      "updatedBy": "GatoPlay"
+    },
+    {
       "id": "tmdb_1551025",
       "type": "movie",
       "title": "Cómo proteger a una estrella",
