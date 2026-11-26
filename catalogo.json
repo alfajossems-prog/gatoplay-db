@@ -29,8 +29,16 @@
           "quality": "1080p",
           "format": "MP4",
           "url": "https://streamtape.com/e/RyMPX8xM1GIdM6J"
+        },
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/gdeBg247vxFqQBY"
         }
-      ]
+      ],
+      "updatedAt": "2026-11-26T23:51:44.762Z",
+      "updatedBy": "GatoPlay"
     },
     {
       "id": "tmdb_1131943",
