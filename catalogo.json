@@ -34,8 +34,9 @@
         }
       ],
       "createdBy": "GatoPlay",
-      "updatedAt": "2026-11-26T04:10:05.285Z",
-      "updatedBy": "GatoPlay"
+      "updatedAt": "2026-11-26T04:12:04.251Z",
+      "updatedBy": "GatoPlay",
+      "hidden": true
     },
     {
       "id": "tmdb_1551025",
