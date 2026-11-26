@@ -7,6 +7,35 @@
   },
   "items": [
     {
+      "id": "tmdb_1291595",
+      "type": "movie",
+      "title": "La noche del demonio: Están entre nosotros",
+      "year": "2026",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.6",
+      "featured": false,
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "subtitle": "",
+      "synopsis": "Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.",
+      "servers": [
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/YejydKkx7OTvyMj/La_noche_del_demonio_esta_entre_nosotros_26FHDDS.mp4"
+        }
+      ],
+      "createdBy": "GatoPlay",
+      "updatedAt": "2026-11-26T14:36:18.379Z",
+      "updatedBy": "GatoPlay"
+    },
+    {
       "id": "tmdb_9928",
       "type": "movie",
       "title": "Robots",
