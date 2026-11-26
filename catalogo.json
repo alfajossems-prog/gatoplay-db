@@ -209,15 +209,14 @@
       "synopsis": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
       "servers": [
         {
-          "name": "VOE",
+          "name": "Streamtape",
           "quality": "1080p",
           "format": "MP4",
-          "url": "https://voe.sx/e/adnmiwqlsque"
+          "url": "https://streamtape.com/e/2Kx9k1ewjjsP7e/Reaident_evil_noche_cero_1080p.mp4"
         }
       ],
-      "hidden": false,
-      "updatedBy": "GatoPlay",
-      "updatedAt": "2026-11-25T20:03:44.534Z"
+      "updatedAt": "2026-11-26T13:46:23.846Z",
+      "updatedBy": "GatoPlay"
     },
     {
       "id": "tmdb_1263337",
