@@ -1,7 +1,7 @@
 {
   "ads_enabled": true,
   "unity_game_id": "210196284",
-  "unity_test_mode": true,
+  "unity_test_mode": false,
   "interstitial_placement": "Interstitial_Android",
   "rewarded_placement": "Rewarded_Android",
   "preroll_enabled": true,
