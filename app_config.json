@@ -1,0 +1,15 @@
+{
+  "ads_enabled": true,
+  "unity_game_id": "800455951",
+  "unity_test_mode": true,
+  "interstitial_placement": "Interstitial_Android",
+  "rewarded_placement": "Rewarded_Android",
+  "preroll_enabled": true,
+  "midroll_enabled": true,
+  "midroll_interval_min": 35,
+  "cooldown_min": 10,
+  "rewarded_for_download": true,
+  "premium_enabled": false,
+  "premium_price_text": "$49 MXN / mes",
+  "premium_contact_url": ""
+}
