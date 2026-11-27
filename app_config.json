@@ -14,7 +14,7 @@
   "premium_contact_url": "",
   "ad_format": "both",
   "extractors": {
-    "streamtape": true,
+    "streamtape": false,
     "doodstream": true,
     "vimeos": true,
     "filemoon": true
