@@ -26,11 +26,13 @@
       "servers": [
         {
           "name": "Streamtape",
-          "quality": "1080p",
+          "quality": "1080pd",
           "format": "MP4",
-          "url": "https://streamtape.com/e/RyMPX8xM1GIdM6J"
+          "url": "https://streamtape.com/e/gdeBg247vxFqQBY"
         }
-      ]
+      ],
+      "updatedAt": "2026-11-27T12:32:55.398Z",
+      "updatedBy": "GatoPlay"
     },
     {
       "id": "tmdb_1131943",
