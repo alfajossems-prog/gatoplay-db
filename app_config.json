@@ -11,5 +11,6 @@
   "rewarded_for_download": true,
   "premium_enabled": false,
   "premium_price_text": "$49 MXN / mes",
-  "premium_contact_url": ""
+  "premium_contact_url": "",
+  "ad_format": "both"
 }
