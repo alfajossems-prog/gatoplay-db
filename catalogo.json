@@ -7,6 +7,42 @@
   },
   "items": [
     {
+      "id": "tmdb_23168",
+      "type": "movie",
+      "title": "Atracción peligrosa",
+      "year": "2010",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "7.2",
+      "featured": false,
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspenso"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3Wtv6Hg8nBjfMRQlhVsErwVJrNr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1952663691",
+      "synopsis": "Mientras planifica su próximo golpe, Doug MacRay, un atracador de bancos de Boston, tiene que esforzarse por controlar sus sentimientos por Claire, la directora de uno de los bancos que atracó. Al mismo tiempo, intenta esquivar al agente del FBI  que le sigue los pasos.",
+      "servers": [
+        {
+          "name": "Pixeldrain",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://pixeldrain.com/u/WSrctpLg"
+        },
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/VVzrPgxAVgTkWy"
+        }
+      ],
+      "createdBy": "GatoPlay",
+      "updatedAt": "2026-11-28T16:56:57.204Z",
+      "updatedBy": "GatoPlay"
+    },
+    {
       "id": "tmdb_449443",
       "type": "movie",
       "title": "El robo perfecto",
