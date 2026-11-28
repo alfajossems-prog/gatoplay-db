@@ -7,6 +7,42 @@
   },
   "items": [
     {
+      "id": "tmdb_449443",
+      "type": "movie",
+      "title": "El robo perfecto",
+      "year": "2018",
+      "quality": "1080p",
+      "language": "LATINO",
+      "rating": "6.9",
+      "featured": false,
+      "genres": [
+        "Crimen",
+        "Suspenso",
+        "Acción"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jt2R8J2ZRmVLND5TceMOGdZWjPn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gQEfeFzEDhvz1YB3JXU2yUZspmH.jpg",
+      "subtitle": "https://subs5.strem.io/en/download/subencoding-stremio-utf8/src-api/file/1955898711",
+      "synopsis": "Un grupo de ladrones planea su gran asalto final. Robar los 120 millones de dólares en efectivo que todos los días se sacan de la circulación y son destruidos por la Reserva Federal. Adelantarse a la policía de Los Ángeles y llegar primero al dinero será su reto.",
+      "servers": [
+        {
+          "name": "Pixeldrain",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://pixeldrain.com/u/q9rEKfA3"
+        },
+        {
+          "name": "Streamtape",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://streamtape.com/e/yPzPABMlrzSOlP"
+        }
+      ],
+      "createdBy": "GatoPlay",
+      "updatedAt": "2026-11-28T03:11:01.620Z",
+      "updatedBy": "GatoPlay"
+    },
+    {
       "id": "tmdb_72105",
       "type": "movie",
       "title": "Ted",
