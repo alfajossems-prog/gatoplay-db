@@ -26,13 +26,19 @@
       "synopsis": "Un grupo de ladrones planea su gran asalto final. Robar los 120 millones de dólares en efectivo que todos los días se sacan de la circulación y son destruidos por la Reserva Federal. Adelantarse a la policía de Los Ángeles y llegar primero al dinero será su reto.",
       "servers": [
         {
+          "name": "Pixeldrain",
+          "quality": "1080p",
+          "format": "MP4",
+          "url": "https://pixeldrain.com/u/q9rEKfA3"
+        },
+        {
           "name": "Streamtape",
           "quality": "1080p",
           "format": "MP4",
           "url": "https://streamtape.com/e/yPzPABMlrzSOlP"
         }
       ],
-      "updatedAt": "2026-11-28T03:23:05.115Z",
+      "updatedAt": "2026-11-28T03:23:36.009Z",
       "updatedBy": "GatoPlay"
     },
     {
